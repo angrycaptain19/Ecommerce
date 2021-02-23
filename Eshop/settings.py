@@ -15,7 +15,7 @@ SECRET_KEY = '^_g%33qd(g8bjc+*40&uh(ptgkb$&-*+0!i3$lu7xj1u166cbb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alpha-xyz1.herokuapp.com','127.0.0.1','https://bilal147.pythonanywhere.com']
+ALLOWED_HOSTS = ['alpha-xyz1.herokuapp.com','127.0.0.1','bilal147.pythonanywhere.com','ecomerce.pythonanywhere.com']
 
 
 # Application definition
